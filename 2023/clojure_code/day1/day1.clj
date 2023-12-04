@@ -2,7 +2,7 @@
   (:gen-class)
   (:require [clojure.string :as str]))
 
-;; day1 part1
+;; Day 1 Part 1
 
 ;; Get the input text and convert to string
 (def input (str/split-lines (slurp "./resources/day1/input.txt")))
