@@ -16,7 +16,7 @@ def line_parser(line):
 
 # %%
 # Loop through every line in your input data.
-input = "day1_sample_input.txt"
+input = "day1_input.txt"
 with open(input) as f:
     lines = f.readlines()
 
